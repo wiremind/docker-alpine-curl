@@ -1,4 +1,4 @@
-# Docker Alpine Curl
+# Docker Alpine Curl Ca-certificates
 
 Like it says, it's a docker image built on alpine with curl and ca-certificates installed. Size is less than 10 MB.
 
